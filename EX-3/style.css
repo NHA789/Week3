@@ -1,0 +1,15 @@
+/* TODO */
+/* Basic button styling */
+button {
+  background-color: pink;
+  color: white;
+  border-radius: 7px;
+  padding: 5px 15px;
+  font: 15%;
+  border: 2px solid black;
+  }
+  button:hover{
+    background-color: brown;
+    border-color: black;
+  }
+
